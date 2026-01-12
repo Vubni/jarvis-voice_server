@@ -84,8 +84,10 @@ pip install -r requirements.txt
 API_KEY=your_openai_api_key_here
 
 # База данных PostgreSQL
+DB_HOST=your_db_host
 DB_USER=your_db_user
 DB_PASSWORD=your_db_password
+DB_DB=your_db_name
 
 # Email для отправки уведомлений
 EMAIL_HOSTNAME=smtp.example.com
